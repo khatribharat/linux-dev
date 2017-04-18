@@ -1,6 +1,4 @@
-# Awesome Linux Developer Resources
-
-[![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)
+# Linux Developer Resources
 
 __Download and browse the latest kernel release at [kernel.org](https://www.kernel.org/)__
 
