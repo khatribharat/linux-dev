@@ -29,6 +29,7 @@ __Download and browse the latest kernel release at [kernel.org](https://www.kern
 * [Kernel.org Wiki](https://www.wiki.kernel.org/) - This is the official wiki for Linux kernel development.
 * [TLDP (The Linux Documentation Project)](http://en.tldp.org/) - LDP is a loosely knit team of volunteers who provide documentation for many aspects of Linux.
 * [Linux Kernel Newbies](https://kernelnewbies.org) - Kernel newbies is a community of aspiring Linux kernel developers who work to improve their kernels and more experienced developers willing to share their knowledge.
+* [Linux Documentation](https://01.org/linuxgraphics/gfx-docs/drm/) - The new Sphinx documentation for Linux kernel (generated from source tree) hosted by Intel.
 
 ## Blogs
 
